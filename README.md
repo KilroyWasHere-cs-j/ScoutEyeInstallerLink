@@ -1,2 +1,2 @@
-# random-website
-Generates some random website
+# ScoutEye install
+GitHub pages website to automatically install ScoutEye source code.
